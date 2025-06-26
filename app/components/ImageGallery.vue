@@ -151,7 +151,7 @@ async function clearSession() {
             Welcome to image gallery
           </h1>
           <p class="text-gray-400">
-            You must be logged in to start uploading images
+            Videos coming soon + prompt generation
           </p>
         </div>
 
